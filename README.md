@@ -15,7 +15,7 @@
 Use Irc to connect AnonOps by Port-6679 <br>
 -- FirstOne: Dowloads Tor and Irc <br> <br>
 * After install Irc<br>
-- Let's run Hexchat and edit // irc.anonops.com/6679 <br>
+- Let's run Hexchat and edit // irc.anonops.com/6679 <br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vudat412&&show_icons=true&locale=en&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="vudat412" />
 
 
